@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 8000
 const dynamicScreenContr = require('./controller/dynamicScreenController');
 
-app.get('/',(req,res){
+app.get('/',(req,res)=>{
     res.status(200).send("Hello");
 })
 //Controllers
