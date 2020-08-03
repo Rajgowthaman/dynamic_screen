@@ -1,8 +1,0 @@
-{
-    "screenName": "search",
-    "screenType": "customer_search",
-    "masterConfig": {
-        "name": "hello_search",
-        "type": "all_search"
-    }
-}

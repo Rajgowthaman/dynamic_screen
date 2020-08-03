@@ -1,5 +1,5 @@
 {
-    "collect_searchApllicationId": {
+    "searchApllicationId": {
         "type": "Textfield",
         "props": {
             "label": "application id",
