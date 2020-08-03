@@ -1,0 +1,8 @@
+{
+    "screenName": "apply",
+    "screenType": "customer_apply",
+    "masterConfig": {
+        "name": "hello_apply",
+        "type": "all_apply"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "screenName": "collect",
+    "screenType": "customer_collect",
+    "masterConfig": {
+        "name": "hello_collect",
+        "type": "all_collect"
+    }
+}
