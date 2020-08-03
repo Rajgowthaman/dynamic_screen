@@ -7,7 +7,7 @@ app.get('/',(req,res)=>{
     res.status(200).send("Hello");
 })
 //Controllers
-app.use('/', dynamicScreenContr);
+app.use('/api', dynamicScreenContr);
 //End Controllers
 app.listen(port, ()=>{
     console.log("App listening on the port : "+port);
